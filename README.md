@@ -1,4 +1,4 @@
 # google-drive-syn-beta
 
-Undated here:
+Updated here:
 https://github.com/deng47/Google-drive-sync-tool
